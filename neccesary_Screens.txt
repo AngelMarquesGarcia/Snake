@@ -1,0 +1,14 @@
+Queremos:
+    1. página principal/menú con:
+        a) título
+        b) "High Scores"
+        c) Options
+        d) Play
+    2. página high scores con los usuarios y sus puntuaciones, ordenados de mayor a menor
+    3. página options, que permita cambiar cosas random 
+        (imagen de fondo)
+        (color de las manzanas)
+        (color de la serpiente/cabeza)
+        (tamaño de la cuadrícula)
+    4. Juego. Al dar a play empieza el juego como tal
+    5. Pantalla de game over, que pida el nombre para el scoreboard
